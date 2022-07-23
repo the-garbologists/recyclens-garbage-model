@@ -1,0 +1,1 @@
+# recyclens-garbage-model
